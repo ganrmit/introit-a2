@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    background: black;
+    max-width: 1500px;
+    margin: auto;
+}
+
+.header {
+    padding: 0px;
+    text-align: center;
+    background: black;
+    font-size: 15px;
+}
+
+.content {
+    padding: 25px 100px;
+    text-align: left;
+    background: white;
+    margin: 25px 150px;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: #34d84b;
+}
+
+p.caption {
+    font-size: small;
+}
